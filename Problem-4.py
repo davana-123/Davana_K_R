@@ -14,5 +14,6 @@ for i in range(1, 10):
             count += 1
     result[i] = count
 
-# Printing the final dictionary
+# Printing the final output dictionary
 print(result)
+
