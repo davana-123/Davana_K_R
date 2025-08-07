@@ -33,14 +33,4 @@
 
 ---
 
-##  Note
-Please check each file:
-- `Problem-1.py`
-- `Problem-2.py`
-- `Problem-3.py`
-- `Problem-4.py`
-
-All problems are solved using **basic Python**, with clean, beginner-friendly code and comments.
-
----
 
